@@ -1,8 +1,8 @@
-# Instructor
+﻿# Instructor
 
 * **[Eduardo López García](https://github.com/Vipheak)**
 
 # Trainees
 
-* **[<nombre_completo>](https://github.com/<nombre_de_usuario>)**
-  * https://github.com/Vipheak/Reprogramando/<carpeta>
+* **[Arnoldo Arturo Paras Reyes](https://github.com/ArnoldoParas)**
+  * https://github.com/Vipheak/Reprogramando/Trainees.md
