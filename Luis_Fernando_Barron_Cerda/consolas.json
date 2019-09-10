@@ -1,0 +1,20 @@
+{
+   "consolas": [
+	{
+		"compañia": "Nintendo",
+		"nombres": [
+			"N64",
+			"Wii",
+			"GC"
+			]
+	},
+	{
+		"compañia": "Microsoft",
+		"nombres": [
+			"Xbox",
+			"Xbox 360",
+			"Xbox one"
+			]
+	}
+ ]
+}
