@@ -1,0 +1,15 @@
+{
+"aguas",
+[{
+  "sabor":"frutas",
+  "tamaño":"500ml",
+  "caducado":false,
+ }
+
+ {
+ "sabor":"naranja",
+ "tamaño":"1lt",
+ "caducado":true,
+}]
+}
+
