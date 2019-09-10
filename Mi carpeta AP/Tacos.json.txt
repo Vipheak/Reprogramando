@@ -1,0 +1,10 @@
+﻿{
+  "ingredientes de para tacos":
+	[
+		1,
+		2
+	]
+
+	"trompo": 1 kilo,
+	"tortilla":1 kilo 2x
+}
