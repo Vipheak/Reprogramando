@@ -1,0 +1,13 @@
+{
+	"mascotas":[
+	{ 
+		"nombre":"pancho",
+        "raza":"pug",
+        "vacunado":false
+    },
+    {
+        "nombre":"milo",
+        "raza":"pug",
+        "vacunado":true
+    } ]
+}
