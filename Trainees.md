@@ -12,3 +12,4 @@
   * https://github.com/Vipheak/Reprogramando/Trainees.md
 * **[Debany Lizeth Aguayo Calderon](http://github.com/debany00)**
 * **[Monica Cecilia Flores Tovar](htpps://github.com/Monica2612)**
+* **[Gerardo Manuel Gomez Guajardo](https://github.com/jerry994)**
