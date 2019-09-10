@@ -11,3 +11,4 @@
 * **[Luis Fernando Barrón Cerda](https://github.com/lif300)**
   * https://github.com/Vipheak/Reprogramando/Trainees.md
 * **[Debany Lizeth Aguayo Calderon](http://github.com/debany00)**
+* **[Monica Cecilia Flores Tovar](htpps://github.com/Monica2612)**
