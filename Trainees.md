@@ -3,7 +3,7 @@
 * **[Eduardo López García](https://github.com/Vipheak)**
 
 # Trainees
-
+* **[Carlos Edwin Coronado Hernandez](https://github.com/karlmax04)**
 * **[Arnoldo Arturo Paras Reyes](https://github.com/ArnoldoParas)**
 * **[Erick Brandon Garcia Castillo](https://github.com/erickbgc)**
 * **[Arcenio Ortega Gonzalez](https://github.com/Arce45)**
