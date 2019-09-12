@@ -14,4 +14,5 @@
 * **[Gerardo Manuel Gomez Guajardo](https://github.com/jerry994)**
 * **[Miguel Angel Franco Baena](https://github.com/BluesZero)**
 * **[Jesús Alberto Castro Carcaño](https://github.com/JACC7)**
+* **[Josué Javdil Valdez Hernandez](https://github.com/JosueValdez)**
   * https://github.com/Vipheak/Reprogramando/Trainees.md
