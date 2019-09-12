@@ -1,4 +1,4 @@
-﻿# Instructor
+# Instructor
 
 * **[Eduardo López García](https://github.com/Vipheak)**
 
@@ -16,3 +16,6 @@
 * **[Jesús Alberto Castro Carcaño](https://github.com/JACC7)**
   * https://github.com/Vipheak/Reprogramando/Trainees.md
 * **[Luis Martin Cortez Requenes] (https://github.com/Yogidvprah)**
+* **[Roberto Israel Gonzalez Escamilla](https://github.ccom/robertogzz10)**
+* **[Josué Javdil Valdez Hernandez](https://github.com/JosueValdez)**
+* **[Haziel Eduardo Zul Mendez](https://github.com/Snozu)**   
