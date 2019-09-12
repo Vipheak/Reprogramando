@@ -1,4 +1,4 @@
-﻿# Instructor
+6﻿# Instructor
 
 * **[Eduardo López García](https://github.com/Vipheak)**
 
@@ -15,3 +15,4 @@
 * **[Miguel Angel Franco Baena](https://github.com/BluesZero)**
 * **[Jesús Alberto Castro Carcaño](https://github.com/JACC7)**
   * https://github.com/Vipheak/Reprogramando/Trainees.md
+* **[Haziel Eduardo Zul Mendez](https://github.com/Snozu)**   
