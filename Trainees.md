@@ -1,9 +1,8 @@
-﻿# Instructor
+# Instructor
 
 * **[Eduardo López García](https://github.com/Vipheak)**
 
 # Trainees
-* **!"·$%&/()=?
 * **[Arnoldo Arturo Paras Reyes](https://github.com/ArnoldoParas)**
 * **[Erick Brandon Garcia Castillo](https://github.com/erickbgc)**
 * **[Arcenio Ortega Gonzalez](https://github.com/Arce45)**
@@ -15,5 +14,8 @@
 * **[Miguel Angel Franco Baena](https://github.com/BluesZero)**
 * **[Jesús Alberto Castro Carcaño](https://github.com/JACC)**
 * **[Debanhi Abigail Escalante Careaga](https://github.com/Debanhi26)**
-
-  *https://github.com/Vipheak/Reprogramando/Trainees.md
+* **[Jesús Alberto Castro Carcaño](https://github.com/JACC7)**
+* **[Luis Martin Cortez Requenes](https://github.com/Yogidvprah)**
+* **[Roberto Israel Gonzalez Escamilla](https://github.ccom/robertogzz10)**
+* **[Josué Javdil Valdez Hernandez](https://github.com/JosueValdez)**
+* **[Haziel Eduardo Zul Mendez](https://github.com/Snozu)**
