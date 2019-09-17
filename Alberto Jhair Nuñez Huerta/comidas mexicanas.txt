@@ -1,0 +1,27 @@
+comidas mexicanas:
+  
+	nombre: pozole
+  
+	ciudad: 
+   
+		 -sinaloa
+   
+		-Jalisco
+	
+nombre: Tamales
+	
+ciudad:
+    
+		-San Luis Potosi
+
+	nombre: Tacos
+
+	ciudad: 
+    
+		-ciudad de mexico
+	nombre: Mole
+	ciudad:
+		-Puebla
+	nombre: Tostadas
+	ciudad:
+		-Guatemala
