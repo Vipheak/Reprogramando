@@ -8,6 +8,6 @@ Alumno:
    Materias:{Matematicas Fisica Programacion}
    Semestres:[2, 3, 4]
    Comidas_Fav:
-   -Civil
-   -Filosofia
-   -Fime
+     -Civil
+     -Filosofia
+     -Fime
