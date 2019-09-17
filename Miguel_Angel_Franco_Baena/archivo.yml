@@ -1,0 +1,12 @@
+#.yml
+#touch suArchivo.yml
+Animal:
+  Especie: Canino
+  Tipo: Perro
+  Raza: Pug
+  Nombre: 
+    -Firulas
+    -Superperro
+  edad: 23
+  
+  
