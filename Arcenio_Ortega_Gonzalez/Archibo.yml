@@ -1,0 +1,13 @@
+Alumno:
+   Nombre: Arcenio
+   Apellidos:
+    -Ortega 
+    -Gonzalez
+   Facultad: FIME
+   Carrera: IAS
+   Materias:{Matematicas Fisica Programacion}
+   Semestres:[2, 3, 4]
+   Comidas_Fav:
+   -Civil
+   -Filosofia
+   -Fime
