@@ -1,0 +1,24 @@
+info: 
+  description: "Este es una lista para clasificar los niveles de lenguaje"
+
+title: "Niveles de lenguajes de programacion"
+niveles:
+  nivel_1:
+    descripcion_2: "Lenguaje que entiende directamente la computadora, por lo                  tanto, se utiliza solo 0 y 1."
+    
+    nombre_1: "Lengueje de ensamblador"
+    definicion_1: " Este derivado del lenguaje máquina, sin embargo, utiliza letras y números para las instrucciones.Es necesario utilizar un compilador para interpretar las instrucciones del programador, el lenguaje no es cercano al humano."
+    nombre_2: "Lenguaje maquina"
+    definicion_2: "instrucciones formador por 0 y 1 que se ejecuta directamente en el CPU (Procesador) del equipo."
+  
+  nivel_2:
+    descripcion: "Son lenguajes que permiten una mayor abstracción, pero manteniendo algunas características del lenguaje de bajo nivel.El código es enviado a un compilador que lo convierte al lenguaje máquina."
+    
+    nombre_3: "Lenguaje C"
+    descripcion_3: "C puede acceder a registros del sistema y direcciones de memoria, todas propias de lenguajes de bajo nivel."
+  
+  nivel_3:
+    descripcion: "Es más cercano al lenguaje humano, manejando conceptos, tipos de datos, etc. sin importar la computadora.Es indispensable utilizar un interprete o compilador que traduzca las instrucciones al lenguaje máquina.Son lenguajes independientes de una computadora, puedes migrar tu código a otro y seguir trabajando sin problemas."
+    
+    nombre_4: "javascript"
+    descripcion_4: "DescripciónJavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, basado en prototipos, imperativo, débilmente tipado y dinámico."
