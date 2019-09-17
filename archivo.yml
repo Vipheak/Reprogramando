@@ -1,0 +1,9 @@
+Persona:
+   nombre: Monica 
+   apellidos: 
+     -Flores
+     -Tovar
+   edad: 18 
+   es_mayor_de_edad: true
+   conjunto :  {rosa morado azul negro}
+   array: [rosa, morado, azul, negro]

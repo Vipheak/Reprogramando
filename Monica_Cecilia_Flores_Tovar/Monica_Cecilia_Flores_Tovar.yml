@@ -1,0 +1,18 @@
+
+
+Persona:
+   
+   nombre: Monica 
+   
+   apellidos: 
+    -Flores
+ 
+    -Tovar
+   
+    edad: 18 
+  
+    es_mayor_de_edad: true
+  
+    colores_favoritos: {rosa morado azul negro}
+   
+    colores_favoritos_2:[ rosa, morado, azul, negro ] 
