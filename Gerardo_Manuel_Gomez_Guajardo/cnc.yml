@@ -1,0 +1,10 @@
+    
+  
+CNC:
+	nombre: delta
+	ejes: [x,y,z]
+	costo: 1500 
+	funciones: 
+		-fresado
+		-torneado
+	zona: {maquinado 1}	
