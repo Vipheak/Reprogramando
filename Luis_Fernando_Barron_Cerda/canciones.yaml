@@ -7,5 +7,5 @@ cancion:
      -Estrofa
      -Coro
      -Se repite
-  progresion acordes intro/coro: [1, 4]
-  progresion acordes estrofa: [1, 3, 7, 4] 
+  progresion_acordes_intro_coro: [1, 4]
+  progresion_acordes_estrofa: [1, 3, 7, 4] 
