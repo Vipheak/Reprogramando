@@ -1,0 +1,14 @@
+persona:
+	nombre: Luis
+	apellidos: {Cortez Requenes}
+	edad: 19 
+	nacionalidad: Mexicano
+	hobbies:
+	-leer
+	-cine
+	-viajar
+	-diseñar	
+	altura: 1.84 m
+	peso: 74.9 kg
+	comida favorita: pizza
+	
