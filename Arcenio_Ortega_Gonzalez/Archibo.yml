@@ -6,7 +6,7 @@ Alumno:
    Facultad: FIME
    Carrera: IAS
    Materias: {Matematicas Fisica Programacion}
-   Semestres: [2, 3, 4]
+   Semestres: [2, 3, 4, 5]
    Comidas_Fav:
      -Civil
      -Filosofia
