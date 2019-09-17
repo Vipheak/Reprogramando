@@ -1,0 +1,11 @@
+cancion:
+  nombre: Mad World
+  artista: Gary Jules
+  tonalidad: Fm
+  estructura: 
+     -Intro
+     -Estrofa
+     -Coro
+     -Se repite
+  progresion acordes intro/coro: [1, 4]
+  progresion acordes estrofa: [1, 3, 7, 4] 
