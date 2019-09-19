@@ -1,0 +1,9 @@
+{
+   "costo" : {
+     "Productos" : "Agua" ,
+       "Precio" : [
+        "10 pesos",
+        "5 pesos"
+       ]
+   }
+}
