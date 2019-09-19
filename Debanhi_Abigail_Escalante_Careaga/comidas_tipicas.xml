@@ -1,0 +1,11 @@
+<Comidas tipicas>
+ <Pais>Mexico</Pais>
+   <Comidas>
+        <comida numero="1">Tamales</comida>
+        <comida numero="2">Guacamole</comida>
+        <comida numero="3">Mole</comida>
+        <comida numero="4">Enchiladas</comida>
+        <comida numero="5">Elote</comida>
+        <comida numero="6">Chiles en hogada</comida>
+   </Comidas>
+</Comidas tipicas>
