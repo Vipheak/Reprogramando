@@ -1,0 +1,18 @@
+<cnc>
+	<nombre>
+		delta
+	</nombre>
+	<ejes>
+		x,y,z
+	</ejes>
+
+	<costo>
+		$1500.00
+	</costo>
+	<funciones>
+		torneado,fresado
+	</funciones>
+	<zona>
+		maquinado 1
+	</zona>
+</cnc>
