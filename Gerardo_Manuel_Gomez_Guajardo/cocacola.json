@@ -1,0 +1,11 @@
+{
+"cocacola",
+{
+"botella",
+{
+"tapa":["roja","redonda","rugosa"],
+"etiqueta":["info.nutri.","roja","logo"],
+"base":["redonda","rugosa"],
+}
+}
+}

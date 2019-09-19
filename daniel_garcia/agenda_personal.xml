@@ -1,0 +1,15 @@
+<persona>
+ <nombre>Daniel</nombre>
+ <apellidos>
+  <apellido>Garcia</apellido>
+  <apellido>Macias</apellido>
+ </apellidos>
+ <edad>19</edad>
+ <hobbies>
+  <hobby numero="1"Comer</hobby>
+  <hobby numero="2"Dormir</hobby>
+  <hobby numero="3"Deporte</hobby>
+  <hobby numero="4"Estudiar</hobby>
+ <hobbies>
+</persona>
+
