@@ -1,0 +1,9 @@
+aguas:
+agua1:
+	sabor:frutas
+	tama;o:500ml
+	caducado:false
+agua2:
+	sabor:frutas
+	tama;o:1lt
+	caducado:true
