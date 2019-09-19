@@ -1,0 +1,9 @@
+{
+"cnc",
+"nombre":"delta",
+"ejes":["x","y","y"],
+"costo":"$1500",
+"funciones":["fresado","torneado"],
+"zona":{maquinado 1},
+"existencias": true, 
+}
