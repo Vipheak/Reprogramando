@@ -1,0 +1,12 @@
+{
+   "pokemon": {
+      "nombre":"Pikachu",
+      "tipo":"Electrico",
+      "ataques": [
+        "Impactrueno",
+        "Placaje"
+      ],
+      "color":"Amarillo",
+      "entrenador":"Ash"
+   }
+}
