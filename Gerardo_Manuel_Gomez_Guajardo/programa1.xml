@@ -1,0 +1,24 @@
+<aguas>
+	<agua1>
+		<sabor>
+			frutas
+		</sabor>
+		<tama;o>
+			500ml
+		</tama;o>
+		<caducidad>
+			false
+		</caducidad>
+	</agua1>
+	<agua2>
+		<sabor>
+                        frutas
+                </sabor>
+                <tama;o>
+                        500ml
+                </tama;o>
+                <caducidad>
+                        false
+                </caducidad>
+	</agua2>
+</aguas>
