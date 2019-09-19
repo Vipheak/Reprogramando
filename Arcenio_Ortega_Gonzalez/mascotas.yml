@@ -1,0 +1,10 @@
+Mascota:
+    Nombre:Pancho
+    Raza:Pug
+    Vacunas:
+    -30_abril
+    -30_junio
+    -30_agosto
+    Edad:5
+    Colores_Pelo:{gris blanco negro}
+    
