@@ -1,0 +1,10 @@
+{
+	"Alumno":[
+	{
+		"nombre":"Arcenio",
+		"apellido":"Ortega",
+		"apellido":"Gonzalez",
+		"facultad":"FIME",
+		"pagos_corriente":false
+	} ]
+}

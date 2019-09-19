@@ -1,0 +1,12 @@
+<Alumno>
+   <Nombre> Arcenio
+   </Nombre>
+   <Apellido>Ortega</Apellido>
+   <Apellido>Gonzalez</Apellido>
+   <Facultad>FIME</Facultad>
+   <Carrera> IAS </Carrera>
+   <Materia>Matematicas</Materia>
+   <Materia>Fisica</Materia>
+   <Materia>Programacion</Materia>
+   <Semestre> 4to </Semestre>
+   <Comidas_Fav> Civil </Comidas_Fav>
