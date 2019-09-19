@@ -1,0 +1,13 @@
+<Local>
+<nombre>Hamburguesas Gzz</nombre>
+   <comidas>
+      <comida>Hamburguesas</comida>
+       <comida>Papa Asada</comida>
+       <comida>Tacos de Bisteck</comida>
+   </comidas>
+   <precios>
+      <precio numero="1">54</precio>
+      <precio numero="2">70</precio>
+      <precio numero="3">70</precio>
+   </precios>
+</Local>
