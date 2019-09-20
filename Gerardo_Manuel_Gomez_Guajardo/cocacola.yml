@@ -1,0 +1,5 @@
+cocacola:
+	botella:
+		tapa:[roja,redonda,rugosa]
+		etiqueta:[info.nutri.,logo,papel]
+		base:[redonda,rugosa]
