@@ -1,0 +1,17 @@
+<peliculas>
+	<clasificaciones>
+		<clasificacion id="A">
+			<genero>
+			  <liveAction>Garfield</liveAction>
+			  <animada>Shrek</animada>
+			  <musical>High School Musical</musical>
+			</genero>
+		</clasificacion>
+		<clasificacion id="R">
+			<genero>
+			  <terror>Chainsaw Masacre</terror>
+			  <accion>Deadpool</accion>
+			</genero>
+		</clasificacion>
+	</clasificaciones>
+</peliculas>
