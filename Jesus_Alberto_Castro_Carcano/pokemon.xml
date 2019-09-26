@@ -1,0 +1,10 @@
+<pokemon>
+      <nombre>Pikachu</nombre>
+      <tipo>Electrico</tipo>
+      <ataques>
+            <ataque tipo:"electrico">Impactrueno</ataque>  
+            <ataque tipo:"normal">Placaje</ataque>
+      </ataques>
+      <color>Amarillo</color>
+      <entrenador>Ash</entrenador>
+</pokemon>
