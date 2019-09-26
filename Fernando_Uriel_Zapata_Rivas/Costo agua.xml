@@ -1,0 +1,7 @@
+ <costo>
+    <Producto>Agua</Producto>
+    <precios>
+      <precio tipo="1 litro">10 pesos</precio>  
+      <precio tipo="500 ml">5 pesos</precio>
+    </precios>
+  </costo>
