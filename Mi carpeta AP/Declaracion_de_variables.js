@@ -14,3 +14,11 @@ console.log
   horas_dormidas,
   paso_examenes
 );
+
+
+//------------------------------------------------------------------------
+//Estandar de condificacion de variable
+//Todas la variables deben empezar con una letra
+//y esta debe ser minuscula
+//------------------------------------------------------------------------
+//Hay exepciones
