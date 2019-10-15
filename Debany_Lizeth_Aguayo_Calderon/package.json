@@ -1,0 +1,11 @@
+{
+  "name": "debany_lizeth_aguayo_calderon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejemplo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Debany Lizeth Aguayo Calderon",
+  "license": "ISC"
+}
