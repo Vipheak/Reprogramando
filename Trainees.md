@@ -21,3 +21,4 @@
 * **[Josué Javdil Valdez Hernandez](https://github.com/JosueValdez)**
 * **[Haziel Eduardo Zul Mendez](https://github.com/Snozu)**
 * **[Debany Lizeth Aguayo Calderon](https://github.com/debany00)**
+* **[Alan Aldahir Garza Bustos](https://github.com/AlanGarza22)**
