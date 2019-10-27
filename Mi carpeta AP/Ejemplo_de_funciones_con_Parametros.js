@@ -37,7 +37,7 @@ console.log(
 
 function sumadearray(array1, array2){
   media1 = 0;
-  media2 = 0
+  media2 = 0;
   for(let numeros_1 in array1){media1+numeros_1[0]+numeros_1[1]+numeros_1[2]+numeros_1[3]+numeros_1[4];}
   for(let numeros_2 in array2){media2+numeros_2[0]+numeros_2[1]+numeros_2[2]+numeros_2[3]+numeros_2[4];}
   return(array1+array2);}
